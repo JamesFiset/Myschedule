@@ -1,0 +1,16 @@
+/* James Fiset
+Myschedule Project
+10/28/23 */
+
+Body{background-image:url(otc.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+table{margin:auto; width: 80%;}
+table, th, td{border:2px gray solid;}
+th, td{padding: 10px; text-align: center;}
+tr:nth-child(even){background-color: gray;
+
+}
+tr:nth-child(odd){background-color: antiquewhite;}
+th{background-color: orangered;}
